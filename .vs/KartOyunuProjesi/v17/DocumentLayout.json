@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\carddisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\carddisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|c:\\users\\emrem\\onedrive\\masa\u00FCst\u00FC\\kartoyunuprojesi\\assets\\_scripts\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|c:\\users\\emrem\\onedrive\\masa\u00FCst\u00FC\\kartoyunuprojesi\\assets\\_scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\enemydisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\enemydisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\monsterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\monsterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\marketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\marketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\mapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\mapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\assets\\_scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F9169E-4F65-9770-41B3-BDEB9828CD0D}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\CardData.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\CardData.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\CardData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:23:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\EnemyDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\EnemyDisplay.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\EnemyDisplay.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\EnemyDisplay.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:08:04.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DamageText.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\DamageText.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\DamageText.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\DamageText.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\DamageText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:07:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MarketManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\MarketManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\MarketManager.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\MarketManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\MarketManager.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:35:24.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\MapManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\MapManager.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\MapManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\MapManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T21:17:13.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:30:33.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Monster.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\Monster.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Monster.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv2YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:34:23.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonsterData.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\MonsterData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\MonsterData.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\MonsterData.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\MonsterData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:30:54.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\SaveManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFMAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:31:12.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:37:24.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\MainMenu.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:20:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\GameManager.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAADEBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:03:20.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\CardDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\CardDisplay.cs",
+              "ToolTip": "C:\\Users\\emrem\\OneDrive\\Masa\u00FCst\u00FC\\KartOyunuProjesi\\Assets\\_Scripts\\CardDisplay.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\CardDisplay.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:32:50.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
